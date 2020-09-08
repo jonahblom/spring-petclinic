@@ -1,6 +1,8 @@
 i edit the readme to signal web hook change.
 
-Third edit to read me file
+=======
+Edited the readme to check for build
+>>>>>>> 0149abe20bc17ed82a31121b4cac8b0b16b99a28
 ===========================================
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
